@@ -1,1 +1,1 @@
-para testar o servidor, digite no terminal "node server.js"
+first node.js class, here we only learn the basics, the first bones of the website skeleton
